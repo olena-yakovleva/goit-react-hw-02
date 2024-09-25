@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+h1 {
+    font-size: 6.2em;
+    line-height: 1.1;
+
+}

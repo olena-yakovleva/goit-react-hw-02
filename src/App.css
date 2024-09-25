@@ -1,0 +1,8 @@
+.section {
+  position: absolute;
+  padding: 16px;
+  min-height: 322px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
